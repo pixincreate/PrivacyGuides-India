@@ -53,7 +53,7 @@ Many people get the concepts of privacy, security, and anonymity confused. You'l
 
 All of these concepts overlap, but it is possible to have any combination of these. The sweet spot for most people is when all three of these concepts overlap. However, it's trickier to achieve than many initially believe. Sometimes, you have to compromise on some of these, and that's okay too. This is where threat modeling comes into play, allowing you to make informed decisions about the [_software and services_](https://www.privacyguides.org/en/tools/) you use.
 
-In short - **Privacy** is about data, **Security** is about trust, and **Anonymity** is about identity.
+In short - **Privacy** is about data, **Security** is about trust, and **Anonymity** is about identity.  
 **Example:** You <mark>close the door when you go to bathroom</mark>, that's privacy. <mark>You lock the door when you leave home</mark>, that's security. <mark>You wear a mask when you go to a protest</mark>, that's anonymity.
 
 _More about **privacy** [here](https://www.nist.gov/blogs/taking-measure/why-security-and-privacy-matter-digital-world)._
@@ -115,7 +115,7 @@ Here are some implementations of Aadhaar that promotes mass surveillance and pro
 - Every citizen who had got vaccinated against COVID-19 twice, were all automatically enrolled for **ABHA ID** with no consent asked.
   > To know whether you've been enrolled for ABHA ID, check your second vaccine certificate. If you see a 14 digit number under a name called as "Unique Identifier ID" or something similar, you've been enrolled for ABHA ID.
 
-> Apple running 'health data is private' ads in a country where citizens nonchalantly linked their Aadhaar with vaccine certificate to be automatically enrolled for government's ABHA ID.</p>&mdash; Abhishek Baxi (@baxiabhishek) <a href="https://twitter.com/baxiabhishek/status/1667457262384824321?ref_src=twsrc%5Etfw">June 10, 2023</a>
+> Apple running 'health data is private' ads in a country where citizens nonchalantly linked their Aadhaar with vaccine certificate to be automatically enrolled for government's ABHA ID.<br>&mdash; Abhishek Baxi (@baxiabhishek) <a href="https://twitter.com/baxiabhishek/status/1667457262384824321?ref_src=twsrc%5Etfw">June 10, 2023</a>
 
 _More about implications of Aadhaar [**here**](https://rethinkaadhaar.in/)_
 
@@ -129,7 +129,7 @@ In September 2022, Government of India took a step further to crack down on priv
 
 Government overreach and obssession with mass surveillance and profiling is not new. It has been happening for a long time now. Those who criticize teh government for its instance and ideology are threatened to hide the facts from the public or be jailed. For context, recently, Jack Dorsey, former CEO of Twitter, claimed that [_they were threatened to shut Twitter and raid employees_](https://www.bbc.com/news/world-asia-india-65886825) for which he received a lot of criticism from the Indian Government and its officials. Within weeks, Elon Musk, who's the Chief of Twitter, acknowledged [_that_](https://twitter.com/Geeta_Mohan/status/1671284575312461825)
 
-> "Twitter doesn't have a choice but to obey local governments. If we don't, we get shut down," says Elon Musk. <a href="https://t.co/BBQGptJL4v">pic.twitter.com/BBQGptJL4v</a></p>&mdash; Press Trust of India (@PTI_News) <a href="https://twitter.com/PTI_News/status/1671323434184220675?ref_src=twsrc%5Etfw">June 21, 2023</a>
+> "Twitter doesn't have a choice but to obey local governments. If we don't, we get shut down," says Elon Musk. <a href="https://t.co/BBQGptJL4v">pic.twitter.com/BBQGptJL4v</a><br>&mdash; Press Trust of India (@PTI_News) <a href="https://twitter.com/PTI_News/status/1671323434184220675?ref_src=twsrc%5Etfw">June 21, 2023</a>
 
 ## 2.6 Privacy in no where
 
@@ -138,7 +138,7 @@ With no Bills exist in the country to protect citizens from cybercrimes, digital
 - Very recently some users [_reported_](https://www.ndtv.com/india-news/chinese-phone-maker-realmes-data-collection-raises-concerns-centre-orders-probe-4128914) on the internet that Chinese company Realme having collecting excessive amount of user data without their consent in the name of Enhanced user experience and the option was turned on by default. The company later pushed a patch that turned it off user's devices after the news spread like wild fire. But, the damage was already done. The same kind of data collection is still being done other companies owned by BBK Electronics viz., Oppo, Vivo, OnePlus, iQOO, etc.
 - On the other hand, some bank's like Bank of Maharashtra have been enrolling it's customers/account holders into insurance schemes like `PMJJBY` and `PMSBY` silently. They initially cut the money from your bank account and then send you a message after some 4 - 5 days, you're eligible for the scheme and you can opt out if you want. But, the money is already gone. This is a clear violation of privacy and data protection. The bank has no right to enroll you into any scheme without your consent. But, they do it anyway. Author of this guide has been a victim of [this](https://twitter.com/pixincreate/status/1671139089200840707).
 - Author's friends have reported that their SIM operator Jio, had been blocking GRE ports (GRE ports help you connect to the VPN network) on their network which actually violates net neutrality and upon asking on Twitter, Jio put up a vague reply stating:
-  > Hi, we are here to help you. Please be informed that as per the global standards ports are blocked in the RIL network - Nausheen</p>&mdash; JioCare (@JioCare) <a href="https://twitter.com/JioCare/status/1669720956594704387?ref_src=twsrc%5Etfw">June 16, 2023</a>
+  > Hi, we are here to help you. Please be informed that as per the global standards ports are blocked in the RIL network - Nausheen<br>&mdash; JioCare (@JioCare) <a href="https://twitter.com/JioCare/status/1669720956594704387?ref_src=twsrc%5Etfw">June 16, 2023</a>
 - MLA's in Karnataka illegally sent voter slips to voters with their personal details like name, address, phone number, etc. on WhatsApp tha tsparked controversy. Read more [_here_](https://www.deccanherald.com/election/karnataka/mlas-office-sends-voter-slip-on-whatsapp-sparks-controversy-1214017.html).
 - Here comes the big part. The UPI that you use to do transactions is not safe either. It has added [_convenience to Indians in making digital payments, it is not privacy friendly, experts warn_](https://scroll.in/article/1045536/are-your-upi-payments-farming-your-personal-data-without-your-consent).
   - **TL;DR:** When you make a payment through UPI, not only the UPI ID and transaction ID is shared but rather a lot of personal data that includes your phone number, name and physical address is also shared with the merchant.
@@ -221,7 +221,7 @@ Since it is not really possible to get a phone number alias or temporary Indian 
 <mark>You do NOT need to link your Aadhaar everywhere</mark>. Aadhaar is optional, not mandatory, said by supreme court of India in 2019. `Virtual ID` is a joke and cannot be used anywhere other than locking your Aadhaar and its Biometrics.  
 In most of the place, you're asked to provide your Aadhaar only for proof. That proof is usually **address proof**. For that, <mark>you can give your Driving License, Passport, Voter ID, etc instead</mark>. since they cannot be used to obtain your biometrics and other details like your Phone number or your bank details.
 
-> Like when you go to buy an electric vehicle in India, they ask for your Aadhaar for `FAME II` subsidy. For context, FAME II is a scheme by Government of India to promote electric vehicles. You can give your **Driving License** instead of Aadhaar as proof. They'll **accept** it as it is a valid proof of address.
+> Like when you go to buy an electric vehicle in India, they ask for your Aadhaar for `FAME II` subsidy. For context, FAME II is a scheme by Government of India to promote electric vehicles. You can give your <mark>**Driving License** instead of Aadhaar as proof</mark>. They'll **accept** it as it is a valid proof of address.
 
 Yes, you do NOT need to link your Bank account with Aadhaar at the time of opeing a bank account. You can simply sayno and walk away. If you already have a bank account linked with Aadhaar, you can unlink it by visiting your bank branch.
 
@@ -229,7 +229,7 @@ Yes, you do NOT need to link your Bank account with Aadhaar at the time of opein
 
 When you go to shops like retail stores, shopping malls and etc., after you make a purchase, at the time of billing, they ask for your phone number like it is the norm. <mark>No, it is not the norm and you need not share that</mark>. yes, they'll look at you like a criminal. You can simply say no and walk away. If you really need the product and there exist no other option, you can give them a fake number given that you remember it and no OTP is generated for that number. But, usually, after saying no and couple of times, they'll give you the product without asking for your phone number.
 
-> Companies know the fact that people do not care about sharing their phone number and will share it without second thought. They use this to track you and sell your data to third parties. They also use this to send you spam messages and calls.
+> Companies know the fact that you do not care about sharing your phone number and will share it without second thought. They use this to track you and sell your data to third parties. They also use this to send you spam messages and calls like you usually recieve on your phone.
 
 Most of the apps that are developed in India ask for your phone number for authentication purposes. They do this to <mark>reduce server costs</mark> as it will reduce spam but at the cost of your privacy (why do you care about them?). It is recommended that you refrain from using such apps. If you really need to use them, you can use a fake number or an alias to your original number.
 
@@ -251,11 +251,11 @@ You can know more about the data collected from WhatsApp's privacy-policy [_here
 
 When you give your phone number to sign up for other proprietary services like Uber, Ola, Myntra, Swiggy, Zomato, Paytm and etc., they start sending automated texts on WhatsApp without your prior consent. This is because they have your phone number and they can send you messages on WhatsApp as you've agreed to their policies. This is how they get around the fact that you did not give them your consent to send you messages on WhatsApp like below:
 
-> So done with WhatsApp <a href="https://t.co/pEutCg38mI">pic.twitter.com/pEutCg38mI</a></p>&mdash; Karthikaa.eth ✨ (@designermaybe) <a href="https://twitter.com/designermaybe/status/1655122414886608899?ref_src=twsrc%5Etfw">May 7, 2023</a>
+> So done with WhatsApp <a href="https://t.co/pEutCg38mI">pic.twitter.com/pEutCg38mI</a><br>&mdash; Karthikaa.eth ✨ (@designermaybe) <a href="https://twitter.com/designermaybe/status/1655122414886608899?ref_src=twsrc%5Etfw">May 7, 2023</a>
 
 They do not allow permanent deletion of account either:
 
-> We will make sure users have plenty of time to review and understand the terms. Rest assured we never planned to delete any accounts based on this and will not do so in the future.</p>&mdash; WhatsApp (@WhatsApp) <a href="https://twitter.com/WhatsApp/status/1350166560502026240?ref_src=twsrc%5Etfw">January 15, 2021</a>
+> We will make sure users have plenty of time to review and understand the terms. Rest assured we never planned to delete any accounts based on this and will not do so in the future.<br>&mdash; WhatsApp (@WhatsApp) <a href="https://twitter.com/WhatsApp/status/1350166560502026240?ref_src=twsrc%5Etfw">January 15, 2021</a>
 
 There has been reports stating WhatsApp has opened backdoor for Indian Government to snoop on its users' private messages. You can read more about it [_here_](https://calert.info/details.php?id=1466), [_here_](https://economictimes.indiatimes.com/tech/internet/whatsapp-denies-encrypted-messages-can-be-intercepted/articleshow/56536763.cms) and [_here_](https://scroll.in/latest/826698/whatsapp-denies-report-on-alleged-security-backdoor-that-allows-conversations-to-be-intercepted) but the company has denied the claims. It is not open-source and hence, it is not possible to verify the claims.
 
