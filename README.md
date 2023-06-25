@@ -91,7 +91,7 @@ It is claimed that Aadhaar database is stored securely behind 11ft height 5ft wi
 
 - Recently, 100+ crore people's CoWIN data got [_breached_](https://thewire.in/government/cyber-crime-cell-to-probe-alleged-cowin-data-breach-health-ministry) and all the data was available on Telegram. Government of India, as usual, [_denied_](https://www.ft.com/content/88c0e926-901f-4dd7-bb42-76ff18d62cac) the breach.
   - On filing RTI, public learnt that [_the government have no data about the developers of CoWIN_](https://www.deccanherald.com/national/ministry-of-electronics-and-it-has-no-info-about-who-developed-cowin-according-to-an-rti-941608.html)
-    > Aarogya Setu's data claimed to be [_deleted_](https://www.livemint.com/news/india/aarogya-setu-contact-tracing-data-deleted-feature-discontinued-govt-tells-lok-sabha/amp-11675901604009.html)
+    > Aarogya Setu claims that the data has been [_deleted_](https://www.livemint.com/news/india/aarogya-setu-contact-tracing-data-deleted-feature-discontinued-govt-tells-lok-sabha/amp-11675901604009.html)
   - For a person to execute his/her rights to privacy, he/she should should be allowed to delete their data in a way that EU does (Right to be forgotten). However, the government of India is not interested in allowing the same.
 - It is known that all the data collected through CoWIN and other platforms as such, are used to [_mass surveil_](https://thewire.in/tech/cowin-fiasco-should-alert-us-to-hidden-agendas-behind-digital-identity-based-governance) the citizens of India.
 - [_How Indian farmer's personal data got leaked through PM-Kisaan_](https://www.msn.com/en-ae/news/other/how-india-s-pm-kisan-aadhaar-leak-is-exposing-indians-to-identity-theft/ar-AA1aJ5Mp)
