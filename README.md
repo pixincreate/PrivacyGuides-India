@@ -27,12 +27,12 @@ Without the involvement of Politics in this Privacy Guide, it is not possible to
   - [3.1 Use a VPN](#31-use-a-vpn)
   - [3.2 Refrain from using proprietary services as much as possible](#32-refrain-from-using-proprietary-services-as-much-as-possible)
   - [3.3 Use services that allow deletion of account and data](#33-use-services-that-allow-deletion-of-account-and-data)
-  - [3.4 Lock your Aadhaar (if you've one)](#34-lock-your-aadhaar-if-youve-one)
+  - [3.4 Restrict your Aadhaar (if you've one)](#34-restrict-your-aadhaar-if-youve-one)
     - [3.4.1 Delete ABHA ID](#341-delete-abha-id)
     - [3.4.2 Delete your Digilocker account](#342-delete-your-digilocker-account)
-  - [3.5 Refrain from sharing personal data \*\*](#35-refrain-from-sharing-personal-data-)
+  - [3.5 Refrain from sharing personal data and Aadhaar \*\*](#35-refrain-from-sharing-personal-data-and-aadhaar-)
     - [3.5.1 You don't need to share your phone number everywhere](#351-you-dont-need-to-share-your-phone-number-everywhere)
-  - [3.6 Whats up!?](#36-whats-up)
+  - [3.6 Whats up with WhatsApp!?](#36-whats-up-with-whatsapp)
     - [3.6.1 What can you do?](#361-what-can-you-do)
 
 # CHAPTER 1: Introduction
@@ -112,6 +112,7 @@ Here are some implementations of Aadhaar that promotes mass surveillance and pro
 - [_Karnataka Government to not only collected Aadhaar of students, but also shared them with other departments without consent_](https://www.thenewsminute.com/article/karnataka-not-only-collecting-aadhaar-students-sharing-it-among-departments-178128)
 - <img width="486" alt="image" src="https://github.com/pixincreate/PrivacyGuides-India/assets/69745008/9a17efd8-012a-455a-b7c6-4be44c797998">
 - Government of India shared Aadhaar database with [_private entities_](https://economictimes.indiatimes.com/tech/technology/linkedin-introduces-free-identity-verification-feature-with-aadhaar-and-indian-phone-number/articleshow/100823930.cms) even though Supreme Court of India had prohibited the Government from doing so in 2019.
+  > GOI have opened up a separate [_website_](https://www.uidai.gov.in/en/ecosystem/authentication-devices-documents/developer-section.html) that allows private entities to access Aadhaar database for a fee by mean of Aadhaar APIs. **This is a clear violation of Supreme Court's order**.
 - Every citizen who had got vaccinated against COVID-19 twice, were all automatically enrolled for **ABHA ID** with no consent asked.
   > To know whether you've been enrolled for ABHA ID, check your second vaccine certificate. If you see a 14 digit number under a name called as "Unique Identifier ID" or something similar, you've been enrolled for ABHA ID.
 
@@ -193,14 +194,16 @@ Yes, the service that you use should be trustable and should allow deletion of a
 
 This is because, if you want to stop using a service, you can delete your account and all your data will be deleted from the service provider's servers. This will help you protect your privacy to some extent and have control over your data and life.
 
-## 3.4 Lock your Aadhaar (if you've one)
+## 3.4 Restrict your Aadhaar (if you've one)
 
 In case you've already enrolled for Aadhaar, by mistake or by force, you cannot delete your Aadhaar. But, you can lock your Aadhaar so that no one can use it for authentication purposes.
 
-> If Aadhaar was created when you were under 18, you can opt out of it and request **deletion** of your data once you turn 18 by visiting the nearest Aadhaar centre within the next **6** months after you turn 18.
+> [_If Aadhaar was created when you were under 18, you can opt out of it and request **deletion** of your data once you turn 18 by visiting the nearest Aadhaar centre within the next **6** months after you turn 18._](https://www.uidai.gov.in/en/290-faqs/your-aadhaar/protection-of-the-individual-in-the-uidai-system/1948-can-a-resident-opt-out-of-aadhaar.html)
 
 Make sure you that you lock biometrics so that, even if some one who gains access to your Aadhaar by any means, they cannot use your biometrics for authentication purposes.
-By visiting this [_link_](https://myaadhaar.uidai.gov.in/lock-unlock-aadhaar), you can lock your Aadhaar overall so that no one can use it. This will prevent anyone from using your Aadhaar for authentication purposes. You can unlock it whenever you want to use it for authentication purposes. Make sure that you write down your Virtual Aadhaar number or store it in your password manager. If you trust government, even after reading the Chapter 2, you can proceed and install Government app mAadhaar to lock/unlock your Aadhaar from there.
+By visiting this [_link_](https://myaadhaar.uidai.gov.in/lock-unlock-aadhaar), you can **lock** your Aadhaar overall so that <mark>no one can use it</mark> (assumed). This will prevent anyone from using your Aadhaar for authentication purposes. You can unlock it whenever you want to use it for authentication purposes. Make sure that you write down your Virtual Aadhaar number or store it in your password manager. If you trust government, even after reading the Chapter 2, you can proceed and install Government app mAadhaar to lock/unlock your Aadhaar from there.
+
+[_Here_](https://uidai.gov.in/en/my-aadhaar/about-your-aadhaar/updating-data-on-aadhaar.html), it is mentioned that you can <mark>**update your data sharing consent**</mark>. However, data sharing consent option is available no where on Aadhaar website.
 
 ### 3.4.1 Delete ABHA ID
 
@@ -212,7 +215,7 @@ Digilocker is a service offered by Government of India to store your documents d
 
 Once, you create your digilocker account, you cannot delete it. <mark>You can request your digilocker account to be deleted</mark> if you did not link your Aadhaar to it. Even you did, you can mail them asking them to delete. They'll reject your request initially, but you can mail them again and again until they delete your account. You can mail them at. This is the only way to delete your digilocker account and the author of this guide has done it successfully and you can read the story (it is a story) of the process [_here_](https://medium.com/@pixan/delete-digilocker-account-the-hardway-4ee8758cd78a).
 
-## 3.5 Refrain from sharing personal data \*\*
+## 3.5 Refrain from sharing personal data and Aadhaar \*\*
 
 It is recommended that you refrain from sharing your personal data as much as possible. You can use fake names, fake email addresses, fake phone numbers, etc. to protect your privacy. Some services like `mail.tm` offer you temporary email addresses that you can use to sign up for services that you don't trust and of course, you need to be cautious while sharing personal info on such platform. Temporary phone numbers in India are really hard to get. Services like Mysudo, do not exist in India as Government do not allow such services to exist in India.
 
@@ -221,9 +224,11 @@ Since it is not really possible to get a phone number alias or temporary Indian 
 <mark>You do NOT need to link your Aadhaar everywhere</mark>. Aadhaar is optional, not mandatory, said by supreme court of India in 2019. `Virtual ID` is a joke and cannot be used anywhere other than locking your Aadhaar and its Biometrics.  
 In most of the place, you're asked to provide your Aadhaar only for proof. That proof is usually **address proof**. For that, <mark>you can give your Driving License, Passport, Voter ID, etc instead</mark>. since they cannot be used to obtain your biometrics and other details like your Phone number or your bank details.
 
-> Like when you go to buy an electric vehicle in India, they ask for your Aadhaar for `FAME II` subsidy. For context, FAME II is a scheme by Government of India to promote electric vehicles. You can give your <mark>**Driving License** instead of Aadhaar as proof</mark>. They'll **accept** it as it is a valid proof of address.
+> Like when you go to buy an electric vehicle in India, they ask for your Aadhaar for `FAME II` subsidy. For context, FAME II is a scheme by Government of India to promote electric vehicles. You can give your <mark>**Driving License** instead of Aadhaar as proof</mark>. They'll <mark>accept</mark> it as it is a **valid proof of address**.
 
-Yes, you do NOT need to link your Bank account with Aadhaar at the time of opeing a bank account. You can simply sayno and walk away. If you already have a bank account linked with Aadhaar, you can unlink it by visiting your bank branch.
+> When you go to your nearest SIM provider say Jio / Airtel (VI and BSNL are long dead) to buy a new phone number, you do not need to give your Aadhaar as address proof as it will be linked to your Aadhaar. You can give your Driving License, Voter ID or Passport instead. They'll accept it as it is a **valid proof of address**.
+
+Yes, you do NOT need to link your Bank account with Aadhaar at the time of opeing a bank account. You can simply say no and walk away. If you already have a bank account linked with Aadhaar, you can unlink it by visiting your bank branch.
 
 ### 3.5.1 You don't need to share your phone number everywhere
 
@@ -233,9 +238,9 @@ When you go to shops like retail stores, shopping malls and etc., after you make
 
 Most of the apps that are developed in India ask for your phone number for authentication purposes. They do this to <mark>reduce server costs</mark> as it will reduce spam but at the cost of your privacy (why do you care about them?). It is recommended that you refrain from using such apps. If you really need to use them, you can use a fake number or an alias to your original number.
 
-## 3.6 Whats up!?
+## 3.6 Whats up with WhatsApp!?
 
-WhatsApp is a proprietary messaging service owned by Meta (formerly known as Facebook). The app is extremely popular in the country and is used by almost everyone.
+WhatsApp is a proprietary messaging service owned by Meta (formerly known as Facebook). The app is <mark>extremely popular in the country</mark> and is used by almost everyone. It is really hard to convince anyone to not use WhatsApp.
 
 > Messaging apps popularity grow in an exponential manner. People use an app because their friends use it. Their friends use it because their friends use it. This is how it grows. It is not because it is the best app out there. It is because it is popular.
 
@@ -247,7 +252,7 @@ WhatsApp is **not open-source** and it collects a lot of data about you starting
 
 You can know more about the data collected from WhatsApp's privacy-policy [_here_](https://www.whatsapp.com/legal/updates/privacy-policy/?lang=en) and by requesting GDPR from WhatsApp settings within the app.
 
-> You talk your doctor on WhatsApp, then you talk to the Cancer Diagnostic Center on WhatsApp, then you talk send a pdf to your doctor again, and forward the same to Pharmacy along with a photo. Then you talk to your family on WhatsApp. Now, Facebook knows that you might have cancer and will show you ads related to cancer treatment as WhatsApp shares all your data with its parent company. This is how it works.
+> You talk your **doctor** on WhatsApp, then you talk to the **Cancer Diagnostic Center** on WhatsApp, then you **send a pdf** to your doctor again, and **forward** the same to Pharmacy along with a **photo**. Then you talk to your family on WhatsApp. Now, <mark>Facebook knows that you might have cancer</mark> and will show you ads related to **cancer treatment** all over the internet as WhatsApp shares all your data with its parent company, Meta.
 
 When you give your phone number to sign up for other proprietary services like Uber, Ola, Myntra, Swiggy, Zomato, Paytm and etc., they start sending automated texts on WhatsApp without your prior consent. This is because they have your phone number and they can send you messages on WhatsApp as you've agreed to their policies. This is how they get around the fact that you did not give them your consent to send you messages on WhatsApp like below:
 
