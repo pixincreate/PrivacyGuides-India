@@ -26,9 +26,10 @@ Without the involvement of Politics in this Privacy Guide, it is not possible to
 - [CHAPTER 3: How to protect your privacy then?](#chapter-3-how-to-protect-your-privacy-then)
   - [3.1 Use a VPN](#31-use-a-vpn)
   - [3.2 Refrain from using proprietary services as much as possible](#32-refrain-from-using-proprietary-services-as-much-as-possible)
-  - [3.3 Use services that allow deletion of account](#33-use-services-that-allow-deletion-of-account)
-  - [3.4 Lock your Aadhaar](#34-lock-your-aadhaar)
-    - [3.4.1 Delete Digilocker](#341-delete-digilocker)
+  - [3.3 Use services that allow deletion of account and data](#33-use-services-that-allow-deletion-of-account-and-data)
+  - [3.4 Lock your Aadhaar (if you've one)](#34-lock-your-aadhaar-if-youve-one)
+    - [3.4.1 Delete ABHA ID](#341-delete-abha-id)
+    - [3.4.2 Delete your Digilocker account](#342-delete-your-digilocker-account)
   - [3.5 Refrain from sharing personal data \*\*](#35-refrain-from-sharing-personal-data-)
     - [3.5.1 You don't need to share your phone number everywhere](#351-you-dont-need-to-share-your-phone-number-everywhere)
   - [3.6 Whats up!?](#36-whats-up)
@@ -82,22 +83,9 @@ Violation of privacy has become a norm in India to an extent that people are liv
 
 One cannot blame on people snooping into other's privacy when they themselves are not aware of their own privacy. The mindset of people in India is that they have nothing to hide and they are not doing anything wrong. This is a very dangerous mindset to have. <mark>Privacy is not about hiding something, it is about protecting something</mark>. Privacy is not about doing something wrong, it is about doing something right. Privacy is not about being suspicious, it is about being safe. Privacy is not about being a criminal, it is about being a citizen.
 
-There are some instances where above lines will make sense to you:
-
-- People look at you like a criminal when you hesitate to give your "phone number" at a shopping mall
-- When you ask "why" at any place where they ask your personal data such as phone number, address, etc..
-- You wear a mask or cover your face with some cloth in public when everyone else is not doing it
-- When you ask for alternative proofs that are accepted by the company or organization instead of "Aadhaar"
-
-_and many more!_
-
 ## 2.3: Privacy, Security and Aadhaar
 
-Aadhaar is a unique identity number for every citizen of India issued by the Unique Identification Authority of India (UIDAI). It is a 12-digit number that serves as proof of identity and address, anywhere in India. <mark>Aadhaar is a biometric database</mark> (Iris, fingerprints, face) of Indian citizens, collected by the Unique Identification Authority of India (UIDAI) and stored in a centralised database. The Aadhaar project was launched in 2009, and the first Aadhaar number was issued in 2010. As of 31 March 2019, 1.23 billion Aadhaar numbers have been issued, and 99% of Indians above the age of 18 have enrolled in the system.
-
-The Indian government has been accused of using the Aadhaar system to violate the privacy of citizens.
-
-The Aadhaar (Targeted Delivery of Financial and Other Subsidies, Benefits and Services) Act, 2016 is a controversial law that indirectly mandates the use of a 12-digit unique identity number (Aadhaar) for all Indian citizens. The Aadhaar Act was challenged in the Supreme Court of India, which upheld the validity of the Act but imposed several restrictions on the use of Aadhaar (on paper, of course)!
+Aadhaar is a unique identity number for every citizen of India issued by the Unique Identification Authority of India (UIDAI). It is a 12-digit number that serves as proof of identity and address, anywhere in India. <mark>Aadhaar is a biometric database</mark> (Iris, fingerprints, face) of Indian citizens, collected by the Unique Identification Authority of India (UIDAI) and stored in a centralised database.
 
 It is claimed that Aadhaar database is stored securely behind 11ft height 5ft wide wall. However, there are 100+ incidents that prove that wall has a <mark>**large hole**</mark> in it allowing mass data surveillance, data and identity thefts. Here are some recent incidents that holds good:
 
@@ -113,7 +101,7 @@ It is claimed that Aadhaar database is stored securely behind 11ft height 5ft wi
 
 Aadhaar, despite being known to be insecure and highly prone to data breaches, the government continues to push that in everyway possible.
 
-It is people's responsibility to stay away from it even though it provides some conveniences for your own good that helps you escape from the Government 360 degree profiling and surveillance of you.
+It is people's responsibility to resist themselves from Aadhaar even though it provides some conveniences like Government monetary benefits for your own good that helps you escape from the Government 360 degree profiling and surveillance of you.
 Here are some implementations of Aadhaar that promotes mass surveillance and profiling and people are okay with that for no reason:
 
 - Aadhaar enabled biometrics attendance system for all Government employees
@@ -125,6 +113,7 @@ Here are some implementations of Aadhaar that promotes mass surveillance and pro
 - <img width="486" alt="image" src="https://github.com/pixincreate/PrivacyGuides-India/assets/69745008/9a17efd8-012a-455a-b7c6-4be44c797998">
 - Government of India shared Aadhaar database with [_private entities_](https://economictimes.indiatimes.com/tech/technology/linkedin-introduces-free-identity-verification-feature-with-aadhaar-and-indian-phone-number/articleshow/100823930.cms) even though Supreme Court of India had prohibited the Government from doing so in 2019.
 - Every citizen who had got vaccinated against COVID-19 twice, were all automatically enrolled for **ABHA ID** with no consent asked.
+  > To know whether you've been enrolled for ABHA ID, check your second vaccine certificate. If you see a 14 digit number under a name called as "Unique Identifier ID" or something similar, you've been enrolled for ABHA ID.
 
 > Apple running 'health data is private' ads in a country where citizens nonchalantly linked their Aadhaar with vaccine certificate to be automatically enrolled for government's ABHA ID.</p>&mdash; Abhishek Baxi (@baxiabhishek) <a href="https://twitter.com/baxiabhishek/status/1667457262384824321?ref_src=twsrc%5Etfw">June 10, 2023</a>
 
@@ -173,6 +162,8 @@ Some important links to know more about the state of privacy in India:
 
 It is too hard for you to protect your privacy in India. You're being tracked 24/7, 365 days. Your profiling was started when you were in your mother's womb, and you'll be tracked until your death. But, there are some ways to protect your privacy to some extent. This chapter will guide you through some of the ways to protect your privacy.
 
+> NEVER put all your eggs in a single basket. Use multiple services for multiple purposes. This will help you protect your privacy to some extent.
+
 ## 3.1 Use a VPN
 
 A VPN is a Virtual Private Network that helps you connect to a remote server and route your internet traffic through it. This helps you hide your IP address and location from the websites you visit. It also helps you bypass censorship and geo-restrictions. It also helps you protect your data from hackers and other malicious actors.
@@ -196,11 +187,13 @@ To learn about some of the open source alternatives to proprietary services, fol
   - [DivestOS recommended apps](https://divestos.org/pages/recommended_apps)
   - [DivestOS developed apps](https://divestos.org/pages/our_apps)
 
-## 3.3 Use services that allow deletion of account
+## 3.3 Use services that allow deletion of account and data
 
-It is recommended that you use services that allow deletion of account. This is because, if you want to stop using a service, you can delete your account and all your data will be deleted from the service provider's servers. This will help you protect your privacy to some extent and have control over your data and life.
+Yes, the service that you use should be trustable and should allow deletion of account and data.
 
-## 3.4 Lock your Aadhaar
+This is because, if you want to stop using a service, you can delete your account and all your data will be deleted from the service provider's servers. This will help you protect your privacy to some extent and have control over your data and life.
+
+## 3.4 Lock your Aadhaar (if you've one)
 
 In case you've already enrolled for Aadhaar, by mistake or by force, you cannot delete your Aadhaar. But, you can lock your Aadhaar so that no one can use it for authentication purposes.
 
@@ -209,7 +202,11 @@ In case you've already enrolled for Aadhaar, by mistake or by force, you cannot 
 Make sure you that you lock biometrics so that, even if some one who gains access to your Aadhaar by any means, they cannot use your biometrics for authentication purposes.
 By visiting this [_link_](https://myaadhaar.uidai.gov.in/lock-unlock-aadhaar), you can lock your Aadhaar overall so that no one can use it. This will prevent anyone from using your Aadhaar for authentication purposes. You can unlock it whenever you want to use it for authentication purposes. Make sure that you write down your Virtual Aadhaar number or store it in your password manager. If you trust government, even after reading the Chapter 2, you can proceed and install Government app mAadhaar to lock/unlock your Aadhaar from there.
 
-### 3.4.1 Delete Digilocker
+### 3.4.1 Delete ABHA ID
+
+As of now, you can opt out of Ayushman Bharat Health Account (ABHA) and the same is mentioned in their [_fundamentals_](https://healthid.ndhm.gov.in/). <mark>**Delete when you can**</mark>.
+
+### 3.4.2 Delete your Digilocker account
 
 Digilocker is a service offered by Government of India to store your documents digitally on Government server unencrypted. It is not recommended to use Digilocker as it is not open source and you cannot trust it. It is recommended that you delete your Digilocker account and store your documents in your password manager or in your encrypted hard drive.
 
