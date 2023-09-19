@@ -132,6 +132,31 @@ Government overreach and obssession with mass surveillance and profiling is not 
 
 > "Twitter doesn't have a choice but to obey local governments. If we don't, we get shut down," says Elon Musk. <a href="https://t.co/BBQGptJL4v">pic.twitter.com/BBQGptJL4v</a><br>&mdash; Press Trust of India (@PTI_News) <a href="https://twitter.com/PTI_News/status/1671323434184220675?ref_src=twsrc%5Etfw">June 21, 2023</a>
 
+With the parliament passing bills like a bullet train with NO discussions done, one can expect how bad the situation is for citizens within the nation.  
+- IPC and CrPC bills were retired. Instead the government bought in more draconian bills named Bharatiya Nyay Sanhita and Bharatiya Nagarika Suraksha Sanhita respectively. These arejust rename but what's concerning here is that the sedition law. The Government orally claimed that Sedition laws are removed but what they did not tell is they renamed the sedition law and made it even more scary! Go through the below attached articles to know more about them:
+  - https://www.thehindu.com/news/national/bills-seeking-to-replace-ipc-crpc-indian-evidence-act-referred-to-standing-committee/article67210670.ece
+  - https://thewire.in/government/sedition-law-repealed-three-new-bills-tabled-in-parliament-to-replace-criminal-laws
+  - https://www.bbc.com/news/world-asia-india-66495428
+  - https://indianexpress.com/article/india/amit-shah-bills-reforming-indias-criminal-justice-system-8887532/
+  - https://www.newindianexpress.com/nation/2023/aug/11/three-bills-to-replace-ipc-crpc-indian-evidence-act-introduced-in-lok-sabha-2604246.html
+- Registrations of Births and Death. With the RBD bill passing in,  one can expect 24/7 * 365 days realtime surveillance from birth to death of every citizen of India. What makes it even more scarier is that this pushes Aadhaar on to the population thereby ignoring the protection given by the Supreme Court of India to its citizens.
+  This not only makes your life harder, but can also hold you back forcefully fro buying prperties in the country if you do not furnish Aadhaar. This is nothing but a civil death. We highly suggest you to go through [_**this link**_](https://thewire.in/tech/aadhaar-birth-and-death-certificates-property) to know more!
+  - https://www.insightsonindia.com/2023/07/28/registration-of-births-and-deaths-rbd-amendment-bill-2023/
+  - https://prsindia.org/billtrack/the-registration-of-births-and-deaths-amendment-bill-2023
+  - https://thewire.in/tech/registration-of-births-deaths-aadhaar-voter-id
+  - https://www.thehindu.com/news/national/explained-proposed-amendments-to-the-registration-of-births-and-deaths-act/article67115609.ece
+  - https://www.thehindu.com/news/national/lok-sabha-passes-bill-that-will-enable-digital-birth-certificates/article67146898.ece
+  - https://www.thehindu.com/news/national/all-reported-births-and-deaths-to-be-digitally-registered-on-centres-portal-from-october-1/article67307282.ece
+- DPDPB - 2023. A bill that does not protect its citizens' privacy from anyone but rather legalise this data collection by forcing citizens to be completely transparent to the Government while the Government safeguards itself by making itself more and more opaque.
+  In addition to the above, this will also give the Government un-conditional un-guided powers over everyone else. At the same time, it will also weaken RTI by means of amendment. This will not only weaken your (citizen's) power but also stop you from getting the information from the Government. We highly suggest you to go through [this](https://thewire.in/tech/experts-comment-on-new-data-protection-bill) article to learn why the bill is really a concern. Refer the below attached articles to know more:
+  - https://dpdpb.in/
+  - https://www.thehindu.com/news/national/explained-what-is-the-data-protection-bill-of-2023/article67162906.ece
+  - https://www.hindustantimes.com/technology/data-protection-bill-2023-what-will-change-for-a-normal-user-explained-101691131011821.html
+  - https://internetfreedom.in/dpdpb-2023-in-the-parliament/
+  - https://thewire.in/tech/data-protection-bull-proliferation-digital-india
+  - https://thewire.in/tech/experts-comment-on-new-data-protection-bill
+  - https://www.barandbench.com/law-firms/view-point/digital-personal-data-protection-act-2023-a-brief-analysis
+  
 ## 2.6 Privacy in no where
 
 With no Bills exist in the country to protect citizens from cybercrimes, digital exploitation, surveillance, profileration and abuse from scammers and extortionists. Companies have been taking advantage of the situation and collecting data about you and selling them to third parties for profit. The Government, on the other hand, is busy with its mass surveillance and profiling of citizens while trying to pass a bill that will allow them to collect data from private companies and use them for their own purposes. Here are some incidents:
@@ -196,7 +221,7 @@ This is because, if you want to stop using a service, you can delete your accoun
 
 ## 3.4 Restrict your Aadhaar (if you've one)
 
-In case you've already enrolled for Aadhaar, by mistake or by force, you cannot delete your Aadhaar. But, you can lock your Aadhaar so that no one can use it for authentication purposes.
+In case you've already enrolled for Aadhaar, by mistake or by force, you cannot delete your Aadhaar. But, you can lock your Aadhaar so that **no one** can use it for authentication purposes [not even for verification in background, it just throws 500 -- Internal Server Error (as the developers are not paid well enough to handle errors properly even after 10+ years of its existence)].
 
 > [_If Aadhaar was created when you were under 18, you can opt out of it and request **deletion** of your data once you turn 18 by visiting the nearest Aadhaar centre within the next **6** months after you turn 18._](https://www.uidai.gov.in/en/290-faqs/your-aadhaar/protection-of-the-individual-in-the-uidai-system/1948-can-a-resident-opt-out-of-aadhaar.html)
 
@@ -271,3 +296,11 @@ Instead of using a proprietary messaging app like WhatsApp, you can use an open 
 > Signal is not perfect. It is not the best app out there. It is just better than WhatsApp with more features and better privacy. It is recommended that you use Signal instead of WhatsApp.
 
 You can also look at other options by visiting this [_link_](https://techpolicy.press/what-is-secure-an-analysis-of-popular-messaging-apps/) that analyses various messaging apps and their privacy policies.
+
+With WhatsApp rolling out its new features i.e., `Channels`, it is no more a messaging app but rather a full fledged business tool that is there to help businesses have wider reach to its customers. According to the author, the UI and UX is now completely ruined since the app now focuses more on outsiders rather than insiders i.e., you don't get to see updates from your loved ones or the one who has a close contact with you but rather from an unknown person or a business.  
+It is high time that you get out of this loop and escape WhatsApp AKA Meta's tentacles. 
+
+### 3.7 Move to a new country
+
+Although this is really hard than said, especially for the middle -- working class and lower class people, this is the only option for you to escape from this rabbit hole where you're forced to live in. The government is keen on its knee to stop you from questioning and make any significant improvements to protect you, so, this is a viable option and a last resort.
+
