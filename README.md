@@ -34,6 +34,7 @@ Without the involvement of Politics in this Privacy Guide, it is not possible to
     - [3.5.1 You don't need to share your phone number everywhere](#351-you-dont-need-to-share-your-phone-number-everywhere)
   - [3.6 Whats up with WhatsApp!?](#36-whats-up-with-whatsapp)
     - [3.6.1 What can you do?](#361-what-can-you-do)
+  - [3.7 Move to a new country](#37-move-to-a-new-country)
 
 # CHAPTER 1: Introduction
 
