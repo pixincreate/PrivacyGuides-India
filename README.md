@@ -32,6 +32,7 @@ Without the involvement of Politics in this Privacy Guide, it is not possible to
     - [3.4.2 Delete your Digilocker account](#342-delete-your-digilocker-account)
   - [3.5 Refrain from sharing personal data and Aadhaar \*\*](#35-refrain-from-sharing-personal-data-and-aadhaar-)
     - [3.5.1 You don't need to share your phone number everywhere](#351-you-dont-need-to-share-your-phone-number-everywhere)
+    - [3.5.2 Aadhaar is a proof of nothing but everything](#352-aadhaar-is-a-proof-of-nothing-but-everything)
   - [3.6 Whats up with WhatsApp!?](#36-whats-up-with-whatsapp)
     - [3.6.1 What can you do?](#361-what-can-you-do)
   - [3.7 Move to a new country](#37-move-to-a-new-country)
@@ -268,9 +269,13 @@ Most of the apps that are developed in India ask for your phone number for authe
 
 As mentioned above, government itself claims that Aadhaar is [neither a proof of citizenship nor date of birth](https://thewire.in/government/aadhaar-uidai-citizenship-date-of-birth). Altough you can use it as a proof of address, it is not recommended given the security issues mentioned else where in the guide and yes, you might be forced to give your biometrics. You can check [this](https://www.idcentral.io/blog/what-is-proof-of-address-list-of-valid-documents-explained/) article to learn about the valid documents that you can provide for verifying your physical address.
 
+[Aadhaar **is** voluntary](https://qz.com/india/1351263/supreme-court-verdict-how-indias-aadhaar-id-became-mandatory), but without Aadhaar, you'll have to face hard times in your life as most of the government services will be denied. As a prime example, the mandate of linking PAN with Aadhaar forces citiens to enroll for Aadhaar (voluntarily mandatory).
+
 Here are some more references for verification of the claims made in this guide:
 - [Aadhaar is not a proof of citizenship](https://www.drishtiias.com/daily-updates/daily-news-analysis/aadhaar-is-not-a-proof-of-citizenship)
 - [EPFO removes Aadhaar as valid date of birth proof. What should you do?](https://www.indiatoday.in/business/story/uidai-aadhar-epfo-date-of-birth-evidence-proof-kyc-documents-2490310-2024-01-18)
+- [Aadhaar](https://en.wikipedia.org/wiki/Aadhaar)
+- [Aadhar and its Voluntary Use](https://www.drishtiias.com/daily-updates/daily-news-analysis/aadhar-and-its-voluntary-use)
 
 ## 3.6 Whats up with WhatsApp!?
 
