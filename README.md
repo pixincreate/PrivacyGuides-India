@@ -256,13 +256,21 @@ In most of the place, you're asked to provide your Aadhaar only for proof. That 
 
 Yes, you do NOT need to link your Bank account with Aadhaar at the time of opeing a bank account. You can simply say no and walk away. If you already have a bank account linked with Aadhaar, you can unlink it by visiting your bank branch.
 
-### 3.5.1 You don't need to share your phone number everywhere
+### 3.5.1 You do not need to share your phone number everywhere
 
 When you go to shops like retail stores, shopping malls and etc., after you make a purchase, at the time of billing, they ask for your phone number like it is the norm. <mark>No, it is not the norm and you need not share that</mark>. yes, they'll look at you like a criminal. You can simply say no and walk away. If you really need the product and there exist no other option, you can give them a fake number given that you remember it and no OTP is generated for that number. But, usually, after saying no and couple of times, they'll give you the product without asking for your phone number.
 
 > Companies know the fact that you do not care about sharing your phone number and will share it without second thought. They use this to track you and sell your data to third parties. They also use this to send you spam messages and calls like you usually recieve on your phone.
 
 Most of the apps that are developed in India ask for your phone number for authentication purposes. They do this to <mark>reduce server costs</mark> as it will reduce spam but at the cost of your privacy (why do you care about them?). It is recommended that you refrain from using such apps. If you really need to use them, you can use a fake number or an alias to your original number.
+
+## 3.5.2 Aadhaar is a proof of nothing but everything
+
+As mentioned above, government itself claims that Aadhaar is [neither a proof of citizenship nor date of birth](https://thewire.in/government/aadhaar-uidai-citizenship-date-of-birth). Altough you can use it as a proof of address, it is not recommended given the security issues mentioned else where in the guide and yes, you might be forced to give your biometrics. You can check [this](https://www.idcentral.io/blog/what-is-proof-of-address-list-of-valid-documents-explained/) article to learn about the valid documents that you can provide for verifying your physical address.
+
+Here are some more references for verification of the claims made in this guide:
+- [Aadhaar is not a proof of citizenship](https://www.drishtiias.com/daily-updates/daily-news-analysis/aadhaar-is-not-a-proof-of-citizenship)
+- [EPFO removes Aadhaar as valid date of birth proof. What should you do?](https://www.indiatoday.in/business/story/uidai-aadhar-epfo-date-of-birth-evidence-proof-kyc-documents-2490310-2024-01-18)
 
 ## 3.6 Whats up with WhatsApp!?
 
